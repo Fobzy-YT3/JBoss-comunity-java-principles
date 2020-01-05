@@ -1,0 +1,15 @@
+Encapsulation: A way to place variables and methods into a singular section for easy controlled access to those variables and methods.
+Pros: Can be used to control how much access the user gets
+Cons: Longer code and slower execution
+
+Inheritance: A way to allow the child class to have the same characteristics as parent class while also adding its' own unique additions.
+Pros: No need to write a class which is very similar to the parent class, cuts code length
+Cons: Multiple inheritance doesn't exist so the child class cannot have the characterisitcs of 2 or more classes
+
+Polymorphism: A way to allow the same name do different functions using method overloading and method overriding.
+Pros: Recycles tested code and saves time when writing.
+Cons: Performance issues may occur runtime polymorphism, compile time polymorphism can be difficult to implement into code
+
+Abstraction: A way to prevent trivial and unimportant sections of code from being shown to the user.
+Pros: It reduces programming complexity and helps set up a framework for the code
+Cons: Costs proccessing speed, can spread the effects and locations of bugs.
